@@ -1,0 +1,12 @@
+git
+github learning in progress
+
+git comments:
+git init -> intialize a folder
+git config -> to add a memeber
+git add . -> to move file to the status
+git status -> to know the status of file the files in folder
+git rm --cached <<filename>> to remove file from staging area
+git commit -m "Message" -> to move files to the local repo from staging area
+git commit add orgin "https:\\......."
+
